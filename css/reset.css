@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+html{position:relative;}
+body{color:#000;background:#fff; font-size:14px;line-height:24px; font-family:"Microsoft YaHei";}
+input,select,button{font-family:"Microsoft YaHei";}
+h1,h2,h3,h4,select,input,button{font-size:100%}
+body,h1,h2,h3,h4,ul,li,form,p,img,dl,dd,dt{margin:0;padding:0;border:0}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+input,button,select,img{margin:0;line-height:normal}
+select{padding:1px}
+ul{list-style:none}
+select,input,button,button img,label{vertical-align:middle}
+header,footer,section,aside,nav,hgroup,figure,figcaption{display:block;margin:0;padding:0;border:none}
+a{text-decoration:none;color:#959595}
+a:hover{color:#626262}
+html {height: 100%;}
+
+/* For modern browsers */
+.cf:before,.cf:after {
+	content:"";
+	display:table;
+}
+.cf:after { clear:both; }/* For IE 6/7 (trigger hasLayout) */
+.cf { zoom:1; }
+img{border:0}
+
