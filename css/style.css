@@ -123,8 +123,8 @@ html,body{min-width:1200px;}
 .button.active a{ color:#000;} 
 .ui-scrollable{width: 750px; height: 32px;} 
 .ui-scrollable-container{float: left; width: 670px; margin:0 20px;  height: inherit; overflow:hidden;}
-.ui-scrollable-left{float: left; background: url(../images/6.gif) no-repeat center left; width: 12px; height:32px; cursor:pointer;} 
-.ui-scrollable-right{float: left; background: url(../images/7.gif) no-repeat center right; width: 12px; height:32px; cursor: pointer;}
+.ui-scrollable-left{float: left;  width: 12px; height:32px; cursor:pointer;} 
+.ui-scrollable-right{float: left;  width: 12px; height:32px; cursor: pointer;}
 
 
 .main .title{
@@ -136,6 +136,7 @@ html,body{min-width:1200px;}
 
 .list_show{
 	width:1000px; margin:0 auto;
+	display: none;
 }
 .list_show dl{
 	min-height:110px; display:table; content:''; width:100%; margin-bottom:45px;
