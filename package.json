@@ -1,0 +1,22 @@
+{
+  "name": "workspacehtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyhuoshan/workspacehtml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazyhuoshan/workspacehtml/issues"
+  },
+  "homepage": "https://github.com/crazyhuoshan/workspacehtml#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
